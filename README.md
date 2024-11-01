@@ -12,5 +12,7 @@ Welcome to my portfolio! This project showcases my skills and experiences as a s
 - HTML
 - CSS
 
+## Live Demo
+You can view my portfolio by visiting the following link: [My Portfolio Live Demo](https://freeportfolionew.netlify.app/)
 
 
